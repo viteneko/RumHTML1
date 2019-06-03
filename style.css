@@ -1,0 +1,25 @@
+.rod{
+	display: flex;
+	font-family: Arial;
+	color: black;
+	text-align: center;
+	font-weight: 100px
+}
+.a{
+	height: 300px;
+	width: 200px;
+	margin-left: 100px;
+}
+.b{
+	height: 300px;
+	width: 200px;
+	margin-left: 100px
+}
+.c{
+	height: 300px;
+	width: 200px;
+	margin-left: 100px
+}
+img{
+	height: 250px
+}
